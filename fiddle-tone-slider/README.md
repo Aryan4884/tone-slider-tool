@@ -15,7 +15,6 @@ A simple React-based web application that allows users to adjust the tone of a p
 - ♻️ Undo and Redo functionality
 - ♻️ Reset to clear the text
 - 💾 Local storage support for text persistence
-- ⚡ Real-time UI feedback during tone conversion
 
 ## 🚀 Tech Stack
 
