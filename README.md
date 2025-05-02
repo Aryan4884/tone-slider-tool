@@ -15,7 +15,7 @@ A full-stack web application that transforms the tone of a given text using a sl
 - 🎚️ Intuitive slider to adjust tone dynamically
 - ♻️ Undo, Redo, and Reset functionalities for text history control
 - 💾 LocalStorage-based text persistence
-- 🔄 Real-time feedback with loading indicators and error messages
+- 🔄 Loading indicators and error handling messages
 
 ---
 
