@@ -7,7 +7,7 @@ A simple React-based web application that allows users to adjust the tone of a p
 > 📺 Watch the app in action:
 
 <video width="100%" controls>
-  <source src="./src/asset/Output.mp4" type="video/mp4">
+  <source src="./src/asset/Output (1).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
