@@ -75,5 +75,5 @@ A full-stack web application that transforms the tone of a given text using a sl
 
 ```bash
 git clone https://github.com/Aryan4884/tone-slider-tool.git
-cd tone-slider-tool
+cd fiddle-tone-slider
 npm install
