@@ -4,7 +4,7 @@ A simple React-based web application that allows users to adjust the tone of a p
 
 ## 📽 Demo Video
 
-▶️ [Watch Demo on YouTube](https://www.youtube.com/watch?v=your_video_id](https://youtu.be/r9NkHiWPHjs)
+▶️ [Watch Demo on YouTube](https://youtu.be/r9NkHiWPHjs)
 
 
 
