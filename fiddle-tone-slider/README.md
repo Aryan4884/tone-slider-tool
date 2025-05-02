@@ -2,14 +2,10 @@
 
 A simple React-based web application that allows users to adjust the tone of a predefined text (e.g., an email) using a tone slider. The app interacts with a backend server (e.g., powered by Mistral AI) to convert the input text to a selected tone level ranging from **Very Formal** to **Very Casual**.
 
-## 🎬 Demo
+## 📽 Demo Video
 
-> 📺 Watch the app in action:
+▶️ [Watch Demo on YouTube]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/r9NkHiWPHjs))
 
-<video width="100%" controls>
-  <source src="./src/asset/Output (1).mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 ## ✨ Features
