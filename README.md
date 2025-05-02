@@ -3,6 +3,11 @@
 A full-stack web application that transforms the tone of a given text using a slider-based UI. Designed to simulate an email tone adjustment tool, the app allows users to choose among five tone levels — from **Very Formal** to **Very Casual** — and rewrites the input text accordingly using an AI model.
 
 ---
+## 📽 Demo Video
+
+▶️ [Watch Demo on YouTube](https://youtu.be/r9NkHiWPHjs)
+
+---
 
 ## ✨ Features
 
