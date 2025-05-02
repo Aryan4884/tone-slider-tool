@@ -32,6 +32,6 @@ A simple React-based web application that allows users to adjust the tone of a p
 ### Installation
 
 ```bash
-https://github.com/Aryan4884/tone-slider-tool.git
+git clone https://github.com/Aryan4884/tone-slider-tool.git
 cd tone-slider-tool
 npm install
