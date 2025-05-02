@@ -77,3 +77,19 @@ A full-stack web application that transforms the tone of a given text using a sl
 git clone https://github.com/Aryan4884/tone-slider-tool.git
 cd fiddle-tone-slider
 npm install
+```
+Start the Backend Server
+```bash
+cd backend
+npm install
+node server.js
+```
+In the backend directory, create a .env file and add your Mistral API Key:
+```bash
+MISTRAL_API_KEY=your-api-key-here
+```
+Start the Frontend Server
+```bash
+cd ..
+npm start
+```
