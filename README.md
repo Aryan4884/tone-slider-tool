@@ -117,7 +117,7 @@ Start the Backend Server
 ```bash
 cd backend
 npm install
-node server.js
+node index.js
 ```
 In the backend directory, create a .env file and add your Mistral API Key:
 ```bash
